@@ -82,6 +82,7 @@ This repository showcases a comprehensive set of Excel-based data analysis proje
 ## 🚀 Tools Used
 
 * Microsoft Excel (Advanced Features)
+* <img width="1325" height="992" alt="Screenshot 2026-03-26 204527" src="https://github.com/user-attachments/assets/bbfe4d00-355e-42c7-a72b-02f3fa0c63b3" />
 <img width="1557" height="684" alt="Screenshot 2026-03-27 200619" src="https://github.com/user-attachments/assets/c0f84da7-74cb-4b9d-992a-067d5235266d" />
 <img width="1679" height="766" alt="Screenshot 2026-03-27 200641" src="https://github.com/user-attachments/assets/5c413ba6-7d9b-4f1d-95d9-efd0a4fe426d" />
 <img width="1705" height="715" alt="Screenshot 2026-03-27 200659" src="https://github.com/user-attachments/assets/f7654458-dbd6-419a-9ff2-67a92f389859" />
@@ -95,5 +96,6 @@ This repository showcases a comprehensive set of Excel-based data analysis proje
 <img width="1688" height="804" alt="Screenshot 2026-03-27 201214" src="https://github.com/user-attachments/assets/a5886e45-dfd2-4568-b050-cd3452108863" />
 <img width="1400" height="755" alt="Screenshot 2026-03-27 201228" src="https://github.com/user-attachments/assets/83fc8ea6-2643-4ce3-8b3a-80fe547cf106" />
 <img width="1831" height="967" alt="Screenshot 2026-03-27 201259" src="https://github.com/user-attachments/assets/0473c9b6-43fe-4983-b50d-16609433ed5f" />
+
 
 
