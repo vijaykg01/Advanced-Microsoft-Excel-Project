@@ -4,8 +4,6 @@
 
 This repository showcases a comprehensive set of Excel-based data analysis projects covering core and advanced functionalities used in real-world business scenarios. It includes hands-on implementations of data cleaning, transformation, and visualization techniques using tools such as Pivot Tables, dashboards, lookup functions, conditional formatting, and data validation.
 
----
-
 ## 📁 Files Included & What They Show
 
 ### 1. Dashboard with Pivot Tables (P T with DASHBOARDS.xlsm)
