@@ -82,3 +82,18 @@ This repository showcases a comprehensive set of Excel-based data analysis proje
 ## 🚀 Tools Used
 
 * Microsoft Excel (Advanced Features)
+<img width="1557" height="684" alt="Screenshot 2026-03-27 200619" src="https://github.com/user-attachments/assets/c0f84da7-74cb-4b9d-992a-067d5235266d" />
+<img width="1679" height="766" alt="Screenshot 2026-03-27 200641" src="https://github.com/user-attachments/assets/5c413ba6-7d9b-4f1d-95d9-efd0a4fe426d" />
+<img width="1705" height="715" alt="Screenshot 2026-03-27 200659" src="https://github.com/user-attachments/assets/f7654458-dbd6-419a-9ff2-67a92f389859" />
+<img width="1794" height="677" alt="Screenshot 2026-03-27 200728" src="https://github.com/user-attachments/assets/b2739732-1e41-499f-88b7-1dbb74a36815" />
+<img width="874" height="997" alt="Screenshot 2026-03-27 201036" src="https://github.com/user-attachments/assets/5b04ad1a-334b-4b75-bcdf-e51e582a4e47" />
+<img width="1452" height="717" alt="Screenshot 2026-03-27 200822" src="https://github.com/user-attachments/assets/3e50fdea-7cb5-4e36-900b-c93f4f370ad5" />
+<img width="1489" height="719" alt="Screenshot 2026-03-27 200903" src="https://github.com/user-attachments/assets/95bc2e17-3229-40e5-9f11-518d7c316a2d" />
+<img width="1193" height="849" alt="Screenshot 2026-03-27 200927" src="https://github.com/user-attachments/assets/380e5751-63e8-45da-997f-f5cab38588f0" />
+<img width="1893" height="1007" alt="Screenshot 2026-03-27 201115" src="https://github.com/user-attachments/assets/5615abb3-312c-4bd5-b167-5ec249a8c08f" />
+<img width="1799" height="700" alt="Screenshot 2026-03-27 201146" src="https://github.com/user-attachments/assets/acaae143-157d-40f0-b10c-ec3f2b798be7" />
+<img width="1688" height="804" alt="Screenshot 2026-03-27 201214" src="https://github.com/user-attachments/assets/a5886e45-dfd2-4568-b050-cd3452108863" />
+<img width="1400" height="755" alt="Screenshot 2026-03-27 201228" src="https://github.com/user-attachments/assets/83fc8ea6-2643-4ce3-8b3a-80fe547cf106" />
+<img width="1831" height="967" alt="Screenshot 2026-03-27 201259" src="https://github.com/user-attachments/assets/0473c9b6-43fe-4983-b50d-16609433ed5f" />
+
+
