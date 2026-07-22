@@ -82,6 +82,7 @@ This repository showcases a comprehensive set of Excel-based data analysis proje
 ## 🚀 Tools Used
 
 * Microsoft Excel (Advanced Features)
+* <img width="454" height="383" alt="Screenshot 2026-07-22 195414" src="https://github.com/user-attachments/assets/42c0202a-7037-45a1-962e-00038834ccf6" />
 * <img width="1325" height="992" alt="Screenshot 2026-03-26 204527" src="https://github.com/user-attachments/assets/bbfe4d00-355e-42c7-a72b-02f3fa0c63b3" />
 <img width="1557" height="684" alt="Screenshot 2026-03-27 200619" src="https://github.com/user-attachments/assets/c0f84da7-74cb-4b9d-992a-067d5235266d" />
 <img width="1679" height="766" alt="Screenshot 2026-03-27 200641" src="https://github.com/user-attachments/assets/5c413ba6-7d9b-4f1d-95d9-efd0a4fe426d" />
